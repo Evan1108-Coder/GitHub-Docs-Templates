@@ -1,0 +1,8 @@
+# Replace these placeholder values with your own funding accounts.
+github: [GITHUB_SPONSORS_USERNAME]
+patreon: [PATREON_USERNAME]
+open_collective: [OPEN_COLLECTIVE_NAME]
+ko_fi: [KOFI_USERNAME]
+custom:
+  - [CUSTOM_FUNDING_URL]
+

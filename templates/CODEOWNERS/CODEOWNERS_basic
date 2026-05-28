@@ -1,0 +1,8 @@
+# Each line has a pattern and one or more owners.
+# Replace usernames and teams with your own.
+
+* @GITHUB_USERNAME
+
+/docs/ @DOCS_OWNER
+/.github/ @MAINTAINER_USERNAME
+
