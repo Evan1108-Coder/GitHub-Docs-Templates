@@ -24,5 +24,13 @@ Thanks for helping improve GitHub Docs Templates.
 2. Create a branch.
 3. Make your change.
 4. Check that links work.
-5. Open a pull request with a short explanation.
+5. Run `node scripts/validate.js` if you can.
+6. Open a pull request with a short explanation.
 
+## Quality Check
+
+Before opening a pull request, this command can catch common mistakes:
+
+```bash
+node scripts/validate.js
+```

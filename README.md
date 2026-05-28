@@ -30,6 +30,16 @@ If you want to choose individual files instead, use `templates/`.
 
 For a compact list of the most useful templates, see [TEMPLATE_INDEX.md](TEMPLATE_INDEX.md).
 
+## Quality Checks
+
+This repository includes a small validation script:
+
+```bash
+node scripts/validate.js
+```
+
+It checks relative links, starter packs, and template folder guides. See [QUALITY.md](QUALITY.md).
+
 ## Do I Need All Of This?
 
 No. This repository includes many docs because different projects need different things.
@@ -87,6 +97,7 @@ When you use a template in your own repository, rename it to the standard GitHub
 - `examples/` - complete example documentation sets for common project types.
 - `guides/` - beginner explanations, checklists, and glossary.
 - `TEMPLATE_INDEX.md` - compact index of common copy paths.
+- `QUALITY.md` - validation notes for maintaining the repository.
 
 ## Placeholder Style
 
