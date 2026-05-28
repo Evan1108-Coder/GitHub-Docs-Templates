@@ -6,15 +6,43 @@ This project helps you choose, copy, rename, and customize common GitHub files s
 
 ## Start Here
 
-If you are new to GitHub docs, begin with [guides/START_HERE.md](guides/START_HERE.md).
+If you are new to GitHub docs, begin with [QUICKSTART.md](QUICKSTART.md).
 
-The short version:
+You do not need every file in this repository. Most beginners only need:
 
-1. Pick the type of document you need from `templates/`.
-2. Open that folder's `README.md` to learn what the file is for.
-3. Copy one descriptive template, such as `README_minimal.md`.
-4. Rename it to the GitHub-standard filename, such as `README.md`.
-5. Replace placeholders like `[PROJECT_NAME]`, `[REPO_URL]`, and `[CONTACT_EMAIL]`.
+1. `README.md`
+2. `LICENSE`
+3. `CONTRIBUTING.md`
+
+The fastest path is to copy a folder from `starter-packs/`, then replace the placeholders.
+
+## Quick Copy Paths
+
+| If your project is a... | Start with this folder |
+| --- | --- |
+| Personal or school project | `starter-packs/personal-project/` |
+| Open-source library | `starter-packs/open-source-library/` |
+| Web app | `starter-packs/web-app/` |
+| CLI tool | `starter-packs/cli-tool/` |
+| Documentation site | `starter-packs/docs-site/` |
+
+If you want to choose individual files instead, use `templates/`.
+
+## Do I Need All Of This?
+
+No. This repository includes many docs because different projects need different things.
+
+| File | Beginner Need | What It Does |
+| --- | --- | --- |
+| `README.md` | Required | Explains the project. |
+| `LICENSE` | Usually required for public repos | Explains how others may use the project. |
+| `CONTRIBUTING.md` | Recommended | Explains how people can help. |
+| `CODE_OF_CONDUCT.md` | Recommended for communities | Sets behavior expectations. |
+| `SECURITY.md` | Recommended for public apps/packages | Explains how to report security problems. |
+| Issue templates | Optional | Help people report bugs clearly. |
+| Pull request template | Optional | Helps contributors explain changes. |
+| `CHANGELOG.md` | Optional | Tracks changes between versions. |
+| Everything else | Optional | Useful for larger or more organized projects. |
 
 ## Why The Template Files Have Long Names
 
@@ -53,6 +81,7 @@ When you use a template in your own repository, rename it to the standard GitHub
 - `templates/ACKNOWLEDGMENTS/` - credit and thanks pages.
 - `templates/CODEOWNERS/` - GitHub code owner review templates.
 - `templates/DEPENDABOT/` - dependency update configuration templates.
+- `starter-packs/` - copy-ready sets for common project types.
 - `examples/` - complete example documentation sets for common project types.
 - `guides/` - beginner explanations, checklists, and glossary.
 
