@@ -28,6 +28,8 @@ The fastest path is to copy a folder from `starter-packs/`, then replace the pla
 
 If you want to choose individual files instead, use `templates/`.
 
+For a compact list of the most useful templates, see [TEMPLATE_INDEX.md](TEMPLATE_INDEX.md).
+
 ## Do I Need All Of This?
 
 No. This repository includes many docs because different projects need different things.
@@ -84,6 +86,7 @@ When you use a template in your own repository, rename it to the standard GitHub
 - `starter-packs/` - copy-ready sets for common project types.
 - `examples/` - complete example documentation sets for common project types.
 - `guides/` - beginner explanations, checklists, and glossary.
+- `TEMPLATE_INDEX.md` - compact index of common copy paths.
 
 ## Placeholder Style
 

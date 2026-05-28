@@ -9,7 +9,7 @@ This project is for learning and helping people create better project documentat
 - Explain suggestions clearly.
 - Welcome beginner questions.
 - Keep feedback focused on the work.
-- You can fork or add more examples of templates, or add types of LICENSE and these kind of actions will help too.
+- Help improve the project by suggesting clearer examples, templates, licenses, or guides.
 
 ## Unacceptable Behavior
 
@@ -21,4 +21,3 @@ This project is for learning and helping people create better project documentat
 ## Reporting
 
 If you see a problem, please open an issue or contact the maintainer privately if contact information is available.
-
