@@ -1,5 +1,26 @@
 # GitHub Docs Templates
 
+> Status: stable template collection. These files are meant to be copied, edited, and simplified for each project.
+
+This repo helps new project owners add the GitHub files people expect: README, license, contributing guide, security policy, issue templates, PR template, changelog, and starter docs.
+
+## Which Template Should I Start With?
+
+| Project type | Start here |
+| --- | --- |
+| Small personal repo | `starter-packs/personal-project/` |
+| CLI tool | `starter-packs/cli-tool/` |
+| Web app | `starter-packs/web-app/` |
+| Docs site | `starter-packs/docs-site/` |
+| Open-source library | `starter-packs/open-source-library/` |
+
+## Current Limitations
+
+- Templates still need project-specific editing before publishing.
+- License choice is not legal advice. Pick the license that matches your intent.
+- More examples are useful than more files; avoid adding documents your project will not maintain.
+
+
 Beginner-friendly GitHub documentation templates, examples, and guides for new developers, open-source maintainers, students, and small teams.
 
 This project helps you choose, copy, rename, and customize common GitHub files such as `README.md`, `LICENSE`, `CONTRIBUTING.md`, issue templates, pull request templates, security policies, support docs, changelogs, citation files, and more.
