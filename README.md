@@ -2,13 +2,13 @@
 
 > Beginner-friendly templates for READMEs, contributing guides, issue/PR templates, security docs, changelogs, and starter packs.
 
-![Status](https://img.shields.io/badge/status-beta-6b7280) ![License](https://img.shields.io/github/license/Evan1108-Coder/GitHub-Docs-Templates) ![CI](https://img.shields.io/github/actions/workflow/status/Evan1108-Coder/GitHub-Docs-Templates/ci.yml?branch=main&label=CI)
+![Status](https://img.shields.io/badge/status-beta-6b7280) ![License](https://img.shields.io/github/license/Evan1108-Coder/GitHub-Docs-Templates)
 
 **Documentation templates • open-source hygiene • starter packs**
 
 ## At a Glance
 
-- Real project documentation now includes security, contribution, changelog, CI, and issue/PR workflows.
+- Real project documentation now includes security guidance, contribution notes, issue/PR templates, and real visual snapshots.
 - Maintenance snapshot: see [docs/project-snapshot.md](docs/project-snapshot.md) for a generated file-mix chart and repository checklist.
 - Public repo: https://github.com/Evan1108-Coder/GitHub-Docs-Templates
 
