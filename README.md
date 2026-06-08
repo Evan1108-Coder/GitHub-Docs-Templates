@@ -1,5 +1,19 @@
 # GitHub Docs Templates
 
+> Beginner-friendly templates for READMEs, contributing guides, issue/PR templates, security docs, changelogs, and starter packs.
+
+![Status](https://img.shields.io/badge/status-beta-6b7280) ![License](https://img.shields.io/github/license/Evan1108-Coder/GitHub-Docs-Templates) ![CI](https://img.shields.io/github/actions/workflow/status/Evan1108-Coder/GitHub-Docs-Templates/ci.yml?branch=main&label=CI)
+
+**Documentation templates • open-source hygiene • starter packs**
+
+## At a Glance
+
+- Real project documentation now includes security, contribution, changelog, CI, and issue/PR workflows.
+- Maintenance snapshot: see [docs/project-snapshot.md](docs/project-snapshot.md) for a generated file-mix chart and repository checklist.
+- Public repo: https://github.com/Evan1108-Coder/GitHub-Docs-Templates
+
+---
+
 > Status: stable template collection. These files are meant to be copied, edited, and simplified for each project.
 
 This repo helps new project owners add the GitHub files people expect: README, license, contributing guide, security policy, issue templates, PR template, changelog, and starter docs.

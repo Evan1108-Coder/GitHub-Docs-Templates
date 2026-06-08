@@ -1,19 +1,22 @@
 ---
 name: Bug report
-about: Report something wrong or confusing in this repository
+about: Report a reproducible problem
 title: "[Bug]: "
 labels: bug
 ---
 
-## What is wrong?
+## What happened?
 
-Describe the problem.
+## Steps to reproduce
+1.
+2.
+3.
 
-## Where is it?
+## Expected behavior
 
-Link or name the file, folder, or template.
+## Environment
+- OS:
+- Version/commit:
 
-## Suggested fix
-
-What should be changed?
-
+## Logs or screenshots
+Remove secrets before pasting logs.
