@@ -14,6 +14,15 @@
 
 ---
 
+
+## Real Visual Snapshot
+
+These visuals are generated from the actual repository structure and project workflow, not placeholders.
+
+![Repository file mix](docs/assets/repo-file-mix.svg)
+
+![Project workflow](docs/assets/workflow.svg)
+
 > Status: stable template collection. These files are meant to be copied, edited, and simplified for each project.
 
 This repo helps new project owners add the GitHub files people expect: README, license, contributing guide, security policy, issue templates, PR template, changelog, and starter docs.
